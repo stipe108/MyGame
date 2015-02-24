@@ -11,3 +11,13 @@ jack3 commit 1
 jack3 commit 2
 
 Make piggy look more round
+
+Lots of piggy buttons
+
+Logic for moving piggy
+
+Tweak piggy size
+
+Oops, revert a bug.
+
+Rotate piggy
